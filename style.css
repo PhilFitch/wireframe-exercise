@@ -17,27 +17,17 @@ nav {
     font-family: Arial, sans;
 }
 
-a {
-    /* display: inline-block; */
-    /* margin: 50px; */
-}
-
 .nav {
     margin: 0 45px;
 }
 
 img {
     margin: 15px;
-    /* padding: 15px; */
 }
 
 #logo {
     top: 15px;
     left: 20px;
-}
-
-main {
-   
 }
 
 .large {
@@ -52,9 +42,6 @@ main {
 
 .small-1 {
     margin: 15px 15px 15px 0;
-    /* display: flexbox; */
-    /* align-items: center; */
-    /* margin: auto;  */
 }
 
 .small-2 {
